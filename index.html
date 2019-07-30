@@ -33,17 +33,17 @@
 </section>
 
 <section>
-<section id="slide-orgb3d6106">
-<h2 id="orgb3d6106">Demo Video</h2>
+<section id="slide-org75cb3ea">
+<h2 id="org75cb3ea">Demo Video</h2>
 <p>
-<video controls width="80%" src="videos/rtabmap-airsim-simplemaze.mp4"></video>
+<video controls width="80%" src="videos/rtabmap-airsim-simplemaze.webm"></video>
 </p>
 
 </section>
 </section>
 <section>
-<section id="slide-org43e7525">
-<h2 id="org43e7525">Ouptut Map</h2>
+<section id="slide-orgf7e3926">
+<h2 id="orgf7e3926">Ouptut Map</h2>
 
 <div class="figure">
 <p><img src="images/pcl-rtabmap-airsim.png" alt="pcl-rtabmap-airsim.png" />
@@ -69,14 +69,18 @@ rollingLinks: false,
 keyboard: true,
 mouseWheel: false,
 fragmentInURL: false,
-hashOneBasedIndex: false,
 pdfSeparateFragments: true,
 
 overview: true,
 
 theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-transition: Reveal.getQueryHash().transition || 'convex', // see README of reveal.js for options
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
 transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
 
 // Optional libraries used to extend on reveal.js
 dependencies: [
@@ -85,7 +89,6 @@ dependencies: [
  { src: './plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
  { src: './plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
  { src: './plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
-
 });
 </script>
 </body>
