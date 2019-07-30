@@ -7,7 +7,7 @@
 #+REVEAL_EXTRA_CSS: css/ubsmart.css
 
 * Demo Video
-@@html:<video controls width="80%" src="videos/rtabmap-airsim-simplemaze.mp4"></video>@@
+@@html:<video controls width="80%" src="videos/rtabmap-airsim-simplemaze.webm"></video>@@
 
 * Ouptut Map
 file:images/pcl-rtabmap-airsim.png
