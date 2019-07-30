@@ -33,8 +33,8 @@
 </section>
 
 <section>
-<section id="slide-org75cb3ea">
-<h2 id="org75cb3ea">Demo Video</h2>
+<section id="slide-org639e476">
+<h2 id="org639e476">Demo Video</h2>
 <p>
 <video controls width="80%" src="videos/rtabmap-airsim-simplemaze.webm"></video>
 </p>
@@ -42,13 +42,56 @@
 </section>
 </section>
 <section>
-<section id="slide-orgf7e3926">
-<h2 id="orgf7e3926">Ouptut Map</h2>
+<section id="slide-orgaed2585">
+<h2 id="orgaed2585">Ouptut Map</h2>
 
 <div class="figure">
 <p><img src="images/pcl-rtabmap-airsim.png" alt="pcl-rtabmap-airsim.png" />
 </p>
 </div>
+
+</section>
+</section>
+<section>
+<section id="slide-org3bcdb84">
+<h2 id="org3bcdb84">Challenges</h2>
+<ul>
+<li>Could only run SimpleMaze environment on linux</li>
+<li>Some environments segfault on run</li>
+<li>Some environments segfault when obtaining images</li>
+<li>CityEnvironment linux version zip file is corrupt
+<ul>
+<li>Pending issue with AirSim</li>
+
+</ul></li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org439bccb">
+<h2 id="org439bccb">Quick &amp; Dirty Method used</h2>
+<ul>
+<li>Image sequence extracted using python script</li>
+<li>RTAB-Map ROS version used to generate the map</li>
+
+</ul>
+
+</section>
+</section>
+<section>
+<section id="slide-org5281bb2">
+<h2 id="org5281bb2">More Reliable Method</h2>
+<ul>
+<li>Write an AirSim camera driver for RTAB-Map
+<ul>
+<li>Challenge: AirSim compiled with LLVM, RTAB-Map compiled with gcc</li>
+<li>libc++ STL library used by AirSim have some extra extensions</li>
+
+</ul></li>
+
+</ul>
 </section>
 </section>
 </div>

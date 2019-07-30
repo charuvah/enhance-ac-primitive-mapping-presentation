@@ -11,3 +11,20 @@
 
 * Ouptut Map
 file:images/pcl-rtabmap-airsim.png
+
+* Challenges
+- Could only run SimpleMaze environment on linux
+- Some environments segfault on run
+- Some environments segfault when obtaining images
+- CityEnvironment linux version zip file is corrupt
+  - Pending issue with AirSim
+
+* Quick & Dirty Method used
+- Image sequence extracted using python script
+- RTAB-Map ROS version used to generate the map
+
+* More Reliable Method
+- Write an AirSim camera driver for RTAB-Map
+  - Challenge: AirSim compiled with LLVM, RTAB-Map compiled with gcc
+  - libc++ STL library used by AirSim have some extra extensions
+
