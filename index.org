@@ -1,4 +1,4 @@
-#+TITLE: Motion Lab Tour
+#+TITLE: Enhance Mapping Primitive Demo
 #+AUTHOR: Charuvahan Adhivarahan
 #+OPTIONS: toc:nil num:nil timestamp:nil author title
 #+REVEAL_THEME: white
