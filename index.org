@@ -1,0 +1,128 @@
+#+TITLE: Motion Lab Tour
+#+AUTHOR: Charuvahan Adhivarahan
+#+OPTIONS: toc:nil num:nil timestamp:nil author title
+#+REVEAL_THEME: white
+#+REVEAL_ROOT:
+#+REVEAL_TITLE_SLIDE_BACKGROUND: images/title.png
+#+REVEAL_EXTRA_CSS: css/ubsmart.css
+
+* Motion capture
+** High fidelity positioning & tracking
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-09 18:11:52
+[[file:images/screenshot_2019-04-09_18-11-52.png]]
+** Infrared Cameras
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5b801482b3d1be2d44506dce/5beb182669bdd3309f36e48e/3507x1956/6cd40f78f35a5b9d6ab0c40550289bd1/SS-VICON_camera.JPG @ 2019-04-09 18:13:58
+[[file:images/SS-VICON_camera_2019-04-09_18-13-58.JPG]]
+** Retro-reflective Markers
+#+DOWNLOADED: https://cdn-content.qualisys.com/2014/12/super-spherical-markers-3634-314x314.jpg @ 2019-04-09 18:16:24
+[[file:images/super-spherical-markers-3634-314x314_2019-04-09_18-16-24.jpg]]
+** Mark Objects
+#+DOWNLOADED: https://www.motion-labs.com/graphics/kad-sm.jpg @ 2019-04-09 18:18:15
+[[file:images/kad-sm_2019-04-09_18-18-15.jpg]]
+* Applications
+* Bio-medical Engineering
+** Examples
+- Fatigue Detection & Ergonomics
+- Effects of Neural Disorders
+- Rehabilitation
+- Athelete Performance
+**  
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5b801482b3d1be2d44506dce/5beb182669bdd3309f36e48e/3494x1960/2e3f2f87922398c2fe9a5ad692d8628a/SS-Motion_Capture_lab_3.JPG @ 2019-04-09 18:23:52
+[[file:images/SS-Motion_Capture_lab_3_2019-04-09_18-23-52.JPG]]
+** 
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5b801482b3d1be2d44506dce/5beb182669bdd3309f36e48e/698x519/9f1a51e53efc017218430fd1d3b7963b/Wall_building_task.jpg @ 2019-04-09 18:24:19
+[[file:images/Wall_building_task_2019-04-09_18-24-19.jpg]]
+* Robotics
+** Examples
+- Autonomous Robots
+- Swarm Robotics
+- Localization & Mapping
+- Effects of UAV Noise on People
+** 
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5b801482b3d1be2d44506dce/5beb182669bdd3309f36e490/5472x3648/f3db24069d6150227d8a397241feafa5/224A1512.jpg @ 2019-04-09 18:26:11
+[[file:images/224A1512_2019-04-09_18-26-11.jpg]]
+** 
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5b801482b3d1be2d44506dce/5beb182669bdd3309f36e490/5472x3648/87ac2668521ce7738e05ca6c6da56e31/224A1513.jpg @ 2019-04-09 18:26:31
+[[file:images/224A1513_2019-04-09_18-26-31.jpg]]
+* Human Robot Interaction
+** Examples
+- Collaborative Robots or Cobots
+- Safety
+- Smooth Interaction
+- Human Trust in Cobots
+** Baxter handing out candy
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5be9ba608690ca80d80b8cf5/5c082b7bf5128081022224a5/4e34d52c16aed1ed5cb4bf5b2164c606/CS-Kids-Day-12.jpg @ 2019-04-11 12:02:21
+[[file:images/CS-Kids-Day-12_2019-04-11_12-02-21.jpg]]
+** Baxter handing out candy
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5be9ba608690ca80d80b8cf5/5c082b7bf5128081022224a5/4267dc0ba6043414906d9e92e4cbe3f3/CS-Kids-Day-13.jpg @ 2019-04-11 12:03:01
+[[file:images/CS-Kids-Day-13_2019-04-11_12-03-01.jpg]]
+* Entertainment
+** Animated Movies
+ @@html:<video controls width="80%" src="videos/animation.webm"></video>@@
+* Live Demo
+* Engaging Young Minds
+* Science Exploration Day
+** 
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 11:19:11
+[[file:images/screenshot_2019-04-11_11-19-11.png]]
+** Human interaction wth UAV 
+@@html:<video controls width="80%" src="videos/quadrotor-tricks.webm"></video>@@
+** Four UAVs flying in formation
+@@html:<video controls width="80%" src="videos/four-crazyflies.webm"></video>@@
+
+* Design Camp
+** Learn programming with UAVs
+#+DOWNLOADED: file:///home/charuvah/downloads/uav-mission-control.jpg @ 2019-04-11 12:12:07
+[[file:images/uav-mission-control_2019-04-11_12-12-07.jpg]]
+** Learn programming with UAVs
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5be9bd9a555edb0e5c001d4b/1200x1600/e3cb36bb93633a817b362b29bdad8b30/IMG_5439.jpg @ 2019-04-11 12:09:29
+[[file:images/IMG_5439_2019-04-11_12-09-29.jpg]]
+** Build a snow clearing robot
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5be9ba608690ca80d80b8cf5/5bec6399c1e07a19c3274f13/24d51f3a46bbfdc93b66cf0392b64dd5/2018-08-17.IMG_5908.jpg @ 2019-04-11 12:14:32
+[[file:images/2018-08-17.IMG_5908_2019-04-11_12-14-32.jpg]]
+** Design, Build and Program
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5be9ba608690ca80d80b8cf5/5bec6399c1e07a19c3274f13/eb4c2b904024ecda05c83ecb15dd348e/2018-08-17.IMG_5903.jpg @ 2019-04-11 12:15:56
+[[file:images/2018-08-17.IMG_5903_2019-04-11_12-15-56.jpg]]
+** 
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5be9ba608690ca80d80b8cf5/5bec635836ca024abe626cb4/63ef872430c58f1277738ec2538a058e/2016-08-24.P8249759.jpg @ 2019-04-11 12:18:58
+[[file:images/2016-08-24.P8249759_2019-04-11_12-18-58.jpg]]
+** 
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5be9ba608690ca80d80b8cf5/5bec635836ca024abe626cb4/a47d38c083e73e1ca592350022866566/2016-08-24.P8249756.jpg @ 2019-04-11 12:19:25
+[[file:images/2016-08-24.P8249756_2019-04-11_12-19-25.jpg]]
+** 
+#+DOWNLOADED: https://trello-attachments.s3.amazonaws.com/5bec635836ca024abe626cb4/600x450/c456a4cb907fa693e78c9bcb87657629/2016-08-24.P8249726.jpg @ 2019-04-11 12:20:31
+[[file:images/2016-08-24.P8249726_2019-04-11_12-20-31.jpg]]
+* Q&A
+* Information
+** Vicon
+- https://www.vicon.com/
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:51:14
+[[file:images/screenshot_2019-04-11_12-51-14.png]]
+
+** Turtlebot Burger
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:43:41
+[[file:images/screenshot_2019-04-11_12-43-41.png]]
+** Parrot Bebop
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:42:59
+[[file:images/screenshot_2019-04-11_12-42-59.png]]
+** Bitcraze Crazyflie
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:40:18
+[[file:images/screenshot_2019-04-11_12-40-18.png]]
+
+** Ozobots
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:39:22
+[[file:images/screenshot_2019-04-11_12-39-22.png]]
+
+** Polulu Romi Chassis
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:38:14
+[[file:images/screenshot_2019-04-11_12-38-14.png]]
+
+** Rethink Robotics Baxter
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:45:00
+[[file:images/screenshot_2019-04-11_12-45-00.png]]
+
+** UR3
+#+DOWNLOADED: /tmp/screenshot.png @ 2019-04-11 12:45:56
+[[file:images/screenshot_2019-04-11_12-45-56.png]]
+
+

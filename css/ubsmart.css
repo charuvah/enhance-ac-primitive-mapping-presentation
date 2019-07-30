@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/slide.png");
+}
+
+.reveal section img { 
+    border:none; 
+    max-height: calc(40vh);
+}
+
+
+#sec-title-slide {
+    background-color: rgba(255,255,255,0.85);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title {
+    font-size: 1.1em !important;
+    color: #015BBB !important;
+    text-shadow: 1px 1px 2px #000 !important;
+}
+
+.author {
+    font-size: 0.65em !important;
+    color: #015BBB !important;
+    text-shadow: 1px 1px 2px #000 !important;
+}
+
