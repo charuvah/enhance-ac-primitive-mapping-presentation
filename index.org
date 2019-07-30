@@ -1,5 +1,5 @@
 #+TITLE: Enhance Mapping Primitive Demo
-#+AUTHOR: Charuvahan Adhivarahan
+#+AUTHOR:
 #+OPTIONS: toc:nil num:nil timestamp:nil author title
 #+REVEAL_THEME: white
 #+REVEAL_ROOT:
